@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>data/map1.txt</file>
+        <file>data/map2.txt</file>
+        <file>data/map3.txt</file>
+        <file>data/map4.txt</file>
+        <file>data/map5.txt</file>
+        <file>image/box.png</file>
+        <file>image/goal.png</file>
+        <file>image/ground.png</file>
+        <file>image/man.png</file>
+        <file>image/start.png</file>
+        <file>image/wall.png</file>
+        <file>sound/welcome.mp3</file>
+        <file>data/map6.txt</file>
+        <file>data/map7.txt</file>
+        <file>data/map8.txt</file>
+    </qresource>
+</RCC>

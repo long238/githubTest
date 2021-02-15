@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/BirdGame">
+        <file>Resources/image/bird1.png</file>
+        <file>Resources/image/bird2.png</file>
+        <file>Resources/image/bird3.png</file>
+        <file>Resources/qss/GameWindow.css</file>
+        <file>Resources/image/background.png</file>
+        <file>Resources/image/road.png</file>
+        <file>Resources/image/startButton.png</file>
+        <file>Resources/image/tubedown.png</file>
+        <file>Resources/image/tubeup.png</file>
+        <file>Resources/sound/background.mp3</file>
+        <file>Resources/sound/freelikewind.mp3</file>
+        <file>Resources/sound/gameover.wav</file>
+        <file>Resources/sound/welcome.mp3</file>
+    </qresource>
+</RCC>

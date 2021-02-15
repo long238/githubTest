@@ -1,0 +1,10 @@
+testRichText  		富文本编辑 QTextEdit的基本功能
+testStandardDialogs	标准对话框 各种对话框的使用
+testStyleSheet		样式表的使用 透明窗体 透明部件
+testMask			设置遮罩效果
+testMouseEvent		鼠标事件
+testQPalette		调色板
+testKeyEvent		键盘事件
+testEventFilter		事件过滤器
+testPainter		绘图事件
+testTranslators		翻译器
